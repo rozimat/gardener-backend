@@ -1,0 +1,8 @@
+
+init -y
+
+config express cors express-fileupload jsonwebtoken bcrypt mongoos mongoose uuid body-parser cookie-parser joi
+
+-D nodemon
+
+
